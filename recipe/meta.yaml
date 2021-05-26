@@ -43,7 +43,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=subspace
-  license: GPL-2
+  license: GPL-2.0-only
   summary: An interface to 'OpenSubspace', an open source framework for evaluation and exploration
     of subspace clustering algorithms in WEKA  (see <http://dme.rwth-aachen.de/de/opensubspace>
     for more information).  Also performs visualization.
