@@ -1,11 +1,11 @@
-About r-subspace
-================
+About r-subspace-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-subspace-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=subspace
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-subspace-feedstock/blob/main/LICENSE.txt)
 
 Summary: An interface to 'OpenSubspace', an open source framework for evaluation and exploration of subspace clustering algorithms in WEKA  (see <http://dme.rwth-aachen.de/de/opensubspace> for more information).  Also performs visualization.
 
