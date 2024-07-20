@@ -1,6 +1,5 @@
 {% set version = '1.0.4' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-subspace
@@ -13,8 +12,7 @@ source:
   sha256: 7b905d61101fb0643b4886b5152d5568cd28ff49d928dac90ed50fc92d05525c
 
 build:
-  merge_build_host: True  # [win]
-  number: 3
+  number: 4
   noarch: generic
   rpaths:
     - lib/R/lib/
